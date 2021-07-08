@@ -1,0 +1,24 @@
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\bin\Debug\mp4 or avi to ivf.exe.config
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\bin\Debug\mp4 or avi to ivf.exe
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\bin\Debug\mp4 or avi to ivf.pdb
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4oravito-ivf.csprojAssemblyReference.cache
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\MainWindow.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\App.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4 or avi to ivf_MarkupCompile.cache
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4 or avi to ivf_MarkupCompile.lref
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\MainWindow.baml
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4 or avi to ivf.g.resources
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4_or_avi_to_ivf.Properties.Resources.resources
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4oravito-ivf.csproj.GenerateResource.cache
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4oravito-ivf.csproj.CoreCompileInputs.cache
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4 or avi to ivf.exe
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\mp4 or avi to ivf.pdb
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\bigger\BiggerExit.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\bigger\BiggerHide.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\Exit.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\Hide.g.cs
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\bigger\BiggerExit.baml
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\bigger\BiggerHide.baml
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\Exit.baml
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\icons\Hide.baml
+F:\C#\mp4 or avi to ivf\mp4 or avi to ivf\obj\Debug\GeneratedInternalTypeHelper.g.cs
